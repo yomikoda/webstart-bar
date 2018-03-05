@@ -10,7 +10,7 @@ module.exports = {
   },
   jwtSecret: 'udDeqZ8tEiwy4ZD5mJs3p5AXmlyEybhKpT1lUWqkcd2uTaFgW8r3r2wLUNXKlM0', // Provide secret passphrase of JWT
   server: {
-    host: 'http://localhost', // Provide host server
-    port: '4211' // Provide server's port
+    host: 'http://51.254.36.167', // Provide host server
+    port: '3025' // Provide server's port
   }
 }
